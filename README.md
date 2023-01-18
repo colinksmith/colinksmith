@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **colin.kenjiro.smith@gmail.com**
 
-- 📄 Know about my experiences [https://colinkenjirosmith.netlify.app/assets/files/Colin%20Kenjiro%20Smith%20resume.docx](experiences)
+- 📄 Know about my [experiences](https://colinkenjirosmith.netlify.app/assets/files/Colin%20Kenjiro%20Smith%20resume.docx) 
 
 - ⚡ Fun fact **Tetris was the first videogame played in space**
 
