@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript with fetch API/CSS/</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
+        <p><strong>JavaScript with fetch API/CSS/SASS</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
     </td>
   </tr>
   
