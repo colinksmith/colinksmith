@@ -42,7 +42,7 @@
       <h3 align="center">Insta-Gamer</h3>
         <br />
         <a target="_blank" href="https://github.com/colinksmith/insta-gamers">
-            <img src="https://colinkenjirosmith.netlify.app/images/insta-gamer.jpg"/>
+            <img width="100%" src="https://colinkenjirosmith.netlify.app/images/insta-gamer.jpg"/>
         </a>
         <br />
         <p align="center">
@@ -60,7 +60,7 @@
       <h3 align="center">So you want to travel to space</h3>
         <br />
         <a target="_blank" href="https://github.com/colinksmith/space-tourism-website">
-            <img src="https://colinkenjirosmith.netlify.app/images/space-tourism.jpg"/>
+            <img width="100%" src="https://colinkenjirosmith.netlify.app/images/space-tourism.jpg"/>
         </a>
         <br />
         <p align="center">
@@ -81,7 +81,7 @@
       <h3 align="center">What's going on at NASA?</h3>
         <br />
         <a target="_blank" href="https://github.com/colinksmith/What-s-going-on-at-nasa-">
-            <img src="https://colinkenjirosmith.netlify.app/images/nasa.jpg" alt="notes"/>
+            <img width="100%" src="https://colinkenjirosmith.netlify.app/images/nasa.jpg" alt="notes"/>
         </a>
         <br />
         <p align="center">
