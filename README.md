@@ -39,8 +39,25 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">So you want to travel to space
-</h3>
+      <h3 align="center">Insta-Gamer</h3>
+        <br />
+        <a target="_blank" href="https://github.com/colinksmith/insta-gamers">
+            <img src="https://colinkenjirosmith.netlify.app/images/insta-gamer.jpg"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/colinksmith/insta-gamers">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://insta-gamer.cyclic.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript/CSS</strong> - A space tourism website, showing off destinations, potential crew and technologies used for space travel</p>
+    </td>
+  <td width="50%" valign="top">
+      <h3 align="center">So you want to travel to space</h3>
         <br />
         <a target="_blank" href="https://github.com/colinksmith/space-tourism-website">
             <img src="https://colinkenjirosmith.netlify.app/images/space-tourism.jpg"/>
@@ -57,9 +74,11 @@
       </p>
         <p><strong>JavaScript/CSS</strong> - A space tourism website, showing off destinations, potential crew and technologies used for space travel</p>
     </td>
+  </tr>
+	
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">What's going on at NASA?
-</h3>
+      <h3 align="center">What's going on at NASA?</h3>
         <br />
         <a target="_blank" href="https://github.com/colinksmith/What-s-going-on-at-nasa-">
             <img src="https://colinkenjirosmith.netlify.app/images/nasa.jpg" alt="notes"/>
@@ -76,6 +95,7 @@
       </p>
         <p><strong>JavaScript with fetch API/CSS/SASS</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
     </td>
+   
   </tr>
   
 	
