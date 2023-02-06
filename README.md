@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Bootstrap/MongoDB/Express/Node/Cloudinary/Passport/CSS/Javascipt</strong> - A full stack CRUD, REST api social media platform where users can share pictures and posts of their favorite videogame tips, tricks, accomplishments, memes and more.</p>
+        <p><strong>Bootstrap | MongoDB | Express | Node | Cloudinary | Passport | CSS | Javascipt</strong> - A full stack CRUD, REST api social media platform where users can share pictures and posts of their favorite videogame tips, tricks, accomplishments, memes and more.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">So you want to travel to space</h3>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/CSS</strong> - A space tourism website, showing off destinations, potential crew and technologies used for space travel</p>
+        <p><strong>JavaScript | CSS</strong> - A space tourism website, showing off destinations, potential crew and technologies used for space travel</p>
     </td>
   </tr>
   <tr>
@@ -92,26 +92,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript with fetch API/CSS/SASS</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
+        <p><strong>JavaScript with fetch API | CSS | SASS</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
     </td>
-   <td width="50%" valign="top">
-      <h3 align="center">Aqua Advisor</h3>
-        <br />
-      <a target="_blank" href="https://aquaadvisor.netlify.app/">
-            <img src="http://www.jbl.de/images/apps/areas/aquarium/essentials/aquarium_food/medium/gesellschaftsaquarium/01-gesellschaft2.png" width="100%"  alt="aquarium"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://aquaadvisor.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p>
-    </td> 
+   
   </tr>
 	
 </table>
