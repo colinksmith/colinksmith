@@ -36,67 +36,82 @@
 <h2 align="center">Projects</h2>
 
 
-<table table-layout="fixed" width="100%" bordercolor="#66b2b2">
-    <tr>
-      <td valign="top">
-        <h3 align="center">Insta-Gamer</h3>
-          <br />
-          <a target="_blank" href="https://github.com/colinksmith/insta-gamers">
-              <img src="https://colinkenjirosmith.netlify.app/images/insta-gamer.jpg"/>
-          </a>
-          <br />
-          <p align="center">
-            
-    <a href="https://github.com/colinksmith/insta-gamers">
-      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-    </a>  
-    <a href="https://insta-gamer.cyclic.app/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-    </a>
-        </p>
-          <p><strong>Bootstrap/MongoDB/Express/Node/Cloudinary/Passport/CSS/Javascipt</strong> - A full stack CRUD, REST api social media platform where users can share pictures and posts of their favorite videogame tips, tricks, accomplishments, memes and more.</p>
-      </td>
-    <td valign="top">
-        <h3 align="center">So you want to travel to space</h3>
-          <br />
-          <a target="_blank" href="https://github.com/colinksmith/space-tourism-website">
-              <img src="https://colinkenjirosmith.netlify.app/images/space-tourism.jpg"/>
-          </a>
-          <br />
-          <p align="center">
-            
-    <a href="https://github.com/colinksmith/space-tourism-website">
-      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-    </a>  
-    <a href="https://so-you-want-to-travel-to-space.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-    </a>
-        </p>
-          <p><strong>JavaScript/CSS</strong> - A space tourism website, showing off destinations, potential crew and technologies used for space travel</p>
-      </td>
-    </tr>
-      
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">What's going on at NASA?</h3>
-          <br />
-          <a target="_blank" href="https://github.com/colinksmith/What-s-going-on-at-nasa-">
-              <img width="538px" src="https://colinkenjirosmith.netlify.app/images/nasa.jpg" alt="notes"/>
-          </a>
-          <br />
-          <p align="center">
-            
-    <a href="https://github.com/colinksmith/What-s-going-on-at-nasa-" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-    </a>  
-    <a href="https://whatsgoingonatnasa.netlify.app/index.html" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-    </a>
-        </p>
-          <p><strong>JavaScript with fetch API/CSS/SASS</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
-      </td>
-     
-    </tr>
-    
-      
-  </table>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Insta-Gamer</h3>
+        <br />
+        <a target="_blank" href="https://github.com/colinksmith/insta-gamers">
+            <img src="https://res.cloudinary.com/dpwcgywul/image/upload/v1675694700/insta-gamer_xzdnrm.jpg"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/colinksmith/insta-gamers">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://insta-gamer.cyclic.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Bootstrap/MongoDB/Express/Node/Cloudinary/Passport/CSS/Javascipt</strong> - A full stack CRUD, REST api social media platform where users can share pictures and posts of their favorite videogame tips, tricks, accomplishments, memes and more.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">So you want to travel to space</h3>
+        <br />
+        <a target="_blank" href="https://github.com/colinksmith/space-tourism-website">
+            <img src="https://res.cloudinary.com/dpwcgywul/image/upload/v1675694699/so-you-want-to-travel-to-space_sn2u1u.jpg" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/colinksmith/space-tourism-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://so-you-want-to-travel-to-space.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript/CSS</strong> - A space tourism website, showing off destinations, potential crew and technologies used for space travel</p>
+    </td>
+  </tr>
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">What's going on at NASA?</h3>
+        <br />
+        <a target="_blank" href="https://github.com/colinksmith/What-s-going-on-at-nasa-">
+            <img src="https://res.cloudinary.com/dpwcgywul/image/upload/v1675694700/whats-going-on-at-nasa_ac2snz.jpg" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/colinksmith/What-s-going-on-at-nasa-" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://whatsgoingonatnasa.netlify.app/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript with fetch API/CSS/SASS</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
+    </td>
+   <td width="50%" valign="top">
+      <h3 align="center">Aqua Advisor</h3>
+        <br />
+      <a target="_blank" href="https://aquaadvisor.netlify.app/">
+            <img src="http://www.jbl.de/images/apps/areas/aquarium/essentials/aquarium_food/medium/gesellschaftsaquarium/01-gesellschaft2.png" width="100%"  alt="aquarium"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://aquaadvisor.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p>
+    </td> 
+  </tr>
+	
+</table>
