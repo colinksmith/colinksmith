@@ -77,7 +77,7 @@
   </tr>
 	
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" colspan="2" valign="top">
       <h3 align="center">What's going on at NASA?</h3>
         <br />
         <a target="_blank" href="https://github.com/colinksmith/What-s-going-on-at-nasa-">
