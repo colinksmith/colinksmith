@@ -95,6 +95,8 @@
       </p>
         <p><strong>JavaScript with fetch API/CSS/SASS</strong> - A website that takes data from NASA API's and shows data in a fun and interesting way. It links to the astronomy picture of the day, EPIC's global photos of earth, and recent rover photos from the Curiosity rover.</p>
     </td>
+    <td width="50%" valign="top">
+    </td>
    
   </tr>
   
