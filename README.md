@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colin Kenjiro Smith</h1>
-<h3 align="center">A passionate fullstack developer from PennsylvaniaIndia</h3>
+<h3 align="center">A passionate fullstack developer from Pennsylvania</h3>
 
   I'm a nurse's aide turned developer. Every day I worked with technology, and every day I thought to myself the technology could be better. After the pandemic I transitioned into tech, freelancing and building full-stack web applications. My ultimate goal is to work with a healthcare tech company, to make their tools easy to use and effective in improving healthcare outcomes. In that way, I can support my former colleagues to focus on the most important thing: the person in front of them.
 
