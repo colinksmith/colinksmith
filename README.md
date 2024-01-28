@@ -37,6 +37,46 @@
 
 
 <table bordercolor="#66b2b2">
+	
+ <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BestBuy Price Tracker</h3>
+        <br />
+        <a target="_blank" href="[https://github.com/colinksmith/bb-price-tracker](https://github.com/colinksmith/bb-price-tracker)">
+            <img src="https://colinkenjirosmith.netlify.app/images/thataway%20(Phone).jpg"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/colinksmith/bb-price-tracker">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://bestbuypricetracker.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>BootstReact | Javascipt | Puppeteer | Node | MongoDB | Express | Tailwind</strong> - A full stack price tracker website, allowing users to submit items from a popular retailer along with a contact email and a desired price, which then alerts the users when the given price is reached with sales or price drops. A web scraper pulls information daily.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">BB Store Lookup</h3>
+        <br />
+        <a target="_blank" href="https://github.com/colinksmith/bb-store-lookup">
+            <img src="https://colinkenjirosmith.netlify.app/images/bb-store-lookup.jpg" alt="notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/colinksmith/bb-store-lookup" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://bbstorelookup.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React | CSS | Javascipt | Puppeteer | Node | Vite</strong> - A store number lookup for Best Buy, allowing the user to quickly go from the store number to the actual location. This is a live website used by hundreds of Best Buy employees daily. Also includes the web scraper used to pull this information directly from the BestBuy.com directory, making this information always up to date</p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Insta-Gamer</h3>
