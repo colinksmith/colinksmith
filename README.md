@@ -3,7 +3,7 @@
 
   I'm a nurse's aide turned developer. Every day I worked with technology, and every day I thought to myself the technology could be better. After the pandemic I transitioned into tech, freelancing and building full-stack web applications. My ultimate goal is to work with a healthcare tech company, to make their tools easy to use and effective in improving healthcare outcomes. In that way, I can support my former colleagues to focus on the most important thing: the person in front of them.
 
-- 🔭 I’m currently working on **an hourly stretch reminder app to make us all healthier**
+- 🔭 I’m currently working on **a price tracking website for an online retailer, so I never miss the lowest price**
 
 - 🌱 I’m currently practicing **The MERN Stack: MongoDB, Express, React, and Node.**
 
