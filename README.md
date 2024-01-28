@@ -43,7 +43,7 @@
       <h3 align="center">BestBuy Price Tracker</h3>
         <br />
         <a target="_blank" href="[https://github.com/colinksmith/bb-price-tracker](https://github.com/colinksmith/bb-price-tracker)">
-            <img src="https://colinkenjirosmith.netlify.app/images/thataway%20(Phone).jpg"/>
+            <img src="https://colinkenjirosmith.netlify.app/images/bb-price-tracker.jpg"/>
         </a>
         <br />
         <p align="center">
